@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1016281308862",
+    "firebase_url": "https://easysend-d616d.firebaseio.com",
+    "project_id": "easysend-d616d",
+    "storage_bucket": "easysend-d616d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016281308862:android:93b07ff2030e1434",
+        "android_client_info": {
+          "package_name": "kr.co.easysend.easysendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016281308862-vcfp4m5kcco00ujbtvbco76nmlnfa8pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB27gEyfwqAYaoR9vJexdHK1bZuypqIrsg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
